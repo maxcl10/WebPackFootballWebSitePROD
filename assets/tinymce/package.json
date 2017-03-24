@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "tinymce@^4.3.13",
+      "d:\\Git\\FootballWebSite"
+    ]
+  ],
+  "_from": "tinymce@>=4.3.13 <5.0.0",
+  "_id": "tinymce@4.4.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/tinymce",
+  "_nodeVersion": "5.11.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/tinymce-4.4.3.tgz_1472730612658_0.06911972630769014"
+  },
+  "_npmUser": {
+    "email": "is-accounts@ephox.com",
+    "name": "ephox"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "tinymce",
+    "raw": "tinymce@^4.3.13",
+    "rawSpec": "^4.3.13",
+    "scope": null,
+    "spec": ">=4.3.13 <5.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tinymce/-/tinymce-4.4.3.tgz",
+  "_shasum": "63df0fb3ff90aedab506b7c451034bb5ea192cb1",
+  "_shrinkwrap": null,
+  "_spec": "tinymce@^4.3.13",
+  "_where": "d:\\Git\\FootballWebSite",
+  "bugs": {
+    "url": "http://www.tinymce.com/develop/bugtracker.php"
+  },
+  "dependencies": {},
+  "description": "Web based JavaScript HTML WYSIWYG editor control.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "63df0fb3ff90aedab506b7c451034bb5ea192cb1",
+    "tarball": "https://registry.npmjs.org/tinymce/-/tinymce-4.4.3.tgz"
+  },
+  "keywords": [
+    "editor",
+    "wysiwyg",
+    "tinymce",
+    "richtext",
+    "javascript",
+    "html"
+  ],
+  "license": "LGPL-2.1",
+  "maintainers": [
+    {
+      "email": "is-accounts@ephox.com",
+      "name": "ephox"
+    },
+    {
+      "email": "spocke@moxiecode.com",
+      "name": "spocke"
+    }
+  ],
+  "name": "tinymce",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "4.4.3"
+}
