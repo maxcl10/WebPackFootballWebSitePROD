@@ -1,8 +1,8 @@
 {
-  "name": "fc-uffheim-ng",
-  "short_name": "fc-uffheim-ng",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "FC Uffheim",
+  "short_name": "FC Uffheim",
+  "theme_color": "#3f2b5d",
+  "background_color": "#ecf0f1",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
