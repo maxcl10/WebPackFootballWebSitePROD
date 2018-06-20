@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.5a8c5785149e8fe38c85.js",
+        "/main.029b52e73a28d5f2b41b.js",
         "/polyfills.a5a56ceb61c7ce385c9d.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.93df60eb6877ad68bd67.js",
@@ -541,11 +541,11 @@
     {
       "name": "api-freshness",
       "patterns": [
-        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/nextgame\\/",
-        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/previousgame\\/",
-        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/ns\\/stats\\/\\/getShape",
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/nextgame",
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/previousgame",
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/ns\\/stats\\/getShape",
         "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/ranking",
-        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/games\\/"
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/games"
       ],
       "strategy": "freshness",
       "maxSize": 100,
@@ -1078,8 +1078,8 @@
     "/assets/tinymce/tinymce.js": "93c804963586a992353e6b23e7dca5b2fd324a5d",
     "/assets/tinymce/tinymce.min.js": "47cd8f0393aee55f33140b38ad6f3da099d88b36",
     "/favicon.ico": "d08a25b72b73aaf98100d99ba68ca8aea1f739da",
-    "/index.html": "5de79e26186aeb96e7215c030372f6d251409666",
-    "/main.5a8c5785149e8fe38c85.js": "5fefeef7bb05de2845d3cf90e81f7ae487e9e4b2",
+    "/index.html": "8d85b638ffdadd5a13334de1b9b61b5358771c0b",
+    "/main.029b52e73a28d5f2b41b.js": "4ca152c2061f61c41b660281fb3d4b5b7079b464",
     "/polyfills.a5a56ceb61c7ce385c9d.js": "e7cdb3028a8561624d939c182a37453e251806d4",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.93df60eb6877ad68bd67.js": "4560abf811df0e0b608e3b37c8f627ab8be00527",
