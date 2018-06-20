@@ -537,7 +537,34 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "api-freshness",
+      "patterns": [
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/nextgame\\/",
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/previousgame\\/",
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/ns\\/stats\\/\\/getShape",
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/ranking",
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/games\\/"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "timeoutMs": 10000,
+      "version": 1
+    },
+    {
+      "name": "api-performance",
+      "patterns": [
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/articles",
+        "https:\\/\\/fcuwebapi\\.azurewebsites\\.net\\/api\\/ns\\/teamplayer\\/getplayers\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/assets/data.json": "b82c234619faa1c89259b9b09624b5bbe15d163f",
     "/assets/humans.txt": "fe811d03f6c660e92b93369c4378c0bccf68eff3",
