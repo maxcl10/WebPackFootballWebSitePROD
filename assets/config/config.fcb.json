@@ -1,0 +1,14 @@
+{
+  "env": {
+    "name": "FCB"
+  },
+  "apiServer": {
+    "url": "https://fcbwebapi.azurewebsites.net/api"
+  },
+  "properties": {
+    "siteName": "F.C Bartenheim",
+    "mainColor": "#1e824c",
+    "siteUrl": "https://fcbartenheim.com",
+    "homeImageUrl": "../../../assets/img/Fcb_2018_2019.jpg"
+  }
+}
