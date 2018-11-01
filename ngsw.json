@@ -9,11 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.354f994658cf90f84b7e.js",
-        "/polyfills.a5a56ceb61c7ce385c9d.js",
-        "/runtime.a66f828dca56eeb90e02.js",
-        "/scripts.93df60eb6877ad68bd67.js",
-        "/styles.889f56a1c60747787ea0.css"
+        "/main.3e801cc906c0c6067cae.js",
+        "/polyfills.a39902ba2d7715008d2e.js",
+        "/runtime.ec2944dd8b20ec099bf3.js",
+        "/scripts.e2cc764d74d6cb8d1c42.js",
+        "/styles.b2d831af83acd1ba9ca8.css"
       ],
       "patterns": []
     },
@@ -159,6 +159,7 @@
         "/assets/img/logos/Bartenheim/bartenheim_120x120.png",
         "/assets/img/logos/Bartenheim/bartenheim_200x200.png",
         "/assets/img/logos/Bartenheim/bartenheim_30x30.png",
+        "/assets/img/logos/Bartenheim/bartenheim_60x60.png",
         "/assets/img/logos/Bartenheim/logo-FCB---propre.png",
         "/assets/img/logos/Bennwhir/Bennwhir.jpg",
         "/assets/img/logos/Bennwhir/Bennwhir_100x100.png",
@@ -331,6 +332,7 @@
         "/assets/img/logos/Riedisheim/riedisheim.png",
         "/assets/img/logos/Riedisheim/riedisheim_100x100.png",
         "/assets/img/logos/Riedisheim/riedisheim_30x30.png",
+        "/assets/img/logos/Riedisheim/riedisheim_60x60.png",
         "/assets/img/logos/Riespach/base.jpg",
         "/assets/img/logos/Riespach/base.png",
         "/assets/img/logos/Riespach/riespach_100x100.png",
@@ -846,6 +848,7 @@
     "/assets/img/logos/Bartenheim/bartenheim_120x120.png": "75c9813286f95df0c1e8c33d4be9f51a4ef9d6d7",
     "/assets/img/logos/Bartenheim/bartenheim_200x200.png": "938614002aefc82ad2cef8aecd1b443c052c7187",
     "/assets/img/logos/Bartenheim/bartenheim_30x30.png": "ee19d05ac2eabddf3a7c0f7e228b2ed286b4a745",
+    "/assets/img/logos/Bartenheim/bartenheim_60x60.png": "56f6f361eece1c6a3a6aed1ef02c6c60ae2100ed",
     "/assets/img/logos/Bartenheim/logo-FCB---propre.png": "9b4d54e3fc50776d9f967568123ff02910947fbb",
     "/assets/img/logos/Bennwhir/Bennwhir.jpg": "18cd3328a8982dbed6a6c39e4dd633cefd0e21c6",
     "/assets/img/logos/Bennwhir/Bennwhir_100x100.png": "85df5fac761c5439dda21ac46d4c4e8e2e63a393",
@@ -1018,6 +1021,7 @@
     "/assets/img/logos/Riedisheim/riedisheim.png": "342d7ef177d3f43b196bd1900485475007b5bfa9",
     "/assets/img/logos/Riedisheim/riedisheim_100x100.png": "7eb53fc39d070effc78bb7b7ef3e885474a3c0b8",
     "/assets/img/logos/Riedisheim/riedisheim_30x30.png": "5f1043bb299aff482fbce8b1d2235254b4a813fc",
+    "/assets/img/logos/Riedisheim/riedisheim_60x60.png": "6a32eebfbd0c351867e2b4a4b4b2e14cd480be69",
     "/assets/img/logos/Riespach/base.jpg": "8f3c93ee3f290385e9a13c9d3069245305e8ab98",
     "/assets/img/logos/Riespach/base.png": "38c303825b109edd8b2fb4ed3f3f60775e312b0c",
     "/assets/img/logos/Riespach/riespach_100x100.png": "b446ab100dd98703291d99838bcd433c1418f3bd",
@@ -1138,7 +1142,7 @@
     "/assets/img/players/Lucas_Butsch.png": "bf19c67fd248d78048d6c628493b730076d809ac",
     "/assets/img/players/Lucas_Zurbach.png": "26079622e89fa8e991f4cdd09a7b51bf99d02ab4",
     "/assets/img/players/Mamadou_Sanokho.png": "2193a1199a12e26c6ea78a27ec4108f69329203b",
-    "/assets/img/players/Marc_Raccuglia.png": "5a27a274f90f2d844bdfe8a71727061fe6e69928",
+    "/assets/img/players/Marc_Raccuglia.png": "f46b8b371adab743723464da484d0fff466884fc",
     "/assets/img/players/Marc_Raccuglia_old.png": "f8c80a0beaed4c6aa58c91530cd32688926423d8",
     "/assets/img/players/Marc_Willmann.png": "27518de81269d7c4a1de1d270b9bf9e4890dcd86",
     "/assets/img/players/Marc_Zimmermann.png": "9afb5e6101538829142a865bf84a43304d83393b",
@@ -1366,12 +1370,12 @@
     "/assets/tinymce/tinymce.js": "93c804963586a992353e6b23e7dca5b2fd324a5d",
     "/assets/tinymce/tinymce.min.js": "47cd8f0393aee55f33140b38ad6f3da099d88b36",
     "/favicon.ico": "d08a25b72b73aaf98100d99ba68ca8aea1f739da",
-    "/index.html": "b06235da21fd5e4307d16be279f629a44ae12905",
-    "/main.354f994658cf90f84b7e.js": "608f1fe512a0ea4efb4163ca663aaa6fee33bed3",
-    "/polyfills.a5a56ceb61c7ce385c9d.js": "e7cdb3028a8561624d939c182a37453e251806d4",
-    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/scripts.93df60eb6877ad68bd67.js": "4560abf811df0e0b608e3b37c8f627ab8be00527",
-    "/styles.889f56a1c60747787ea0.css": "d120013308a69f32aba316fe3ea943f870b93aab"
+    "/index.html": "fc1d52223a989263ddf01b84b6fddf2b04657b2b",
+    "/main.3e801cc906c0c6067cae.js": "f3d86fbf50562725cae47992fcaef5c1875822d9",
+    "/polyfills.a39902ba2d7715008d2e.js": "705124dc25c47a21554d57b7a3ef38760e01bc3e",
+    "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/scripts.e2cc764d74d6cb8d1c42.js": "bf6de0532cf806fee2e1db4b6846b3ab65899898",
+    "/styles.b2d831af83acd1ba9ca8.css": "b672b6da2c1e32baffc778ca4ab72751821479dd"
   },
   "navigationUrls": [
     {
