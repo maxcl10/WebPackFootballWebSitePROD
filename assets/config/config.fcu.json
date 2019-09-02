@@ -9,6 +9,6 @@
     "siteName": "F.C Uffheim",
     "mainColor": "#3f2b5d",
     "siteUrl": "https://fcuffheim.azurewebsites.net/",
-    "homeImageUrl": "../../../assets/img/Fcu_2018_2019.jpg"
+    "homeImageUrls": ["../../../assets/img/Fcu_2018_2019.jpg"]
   }
 }

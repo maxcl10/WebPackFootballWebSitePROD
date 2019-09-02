@@ -9,6 +9,9 @@
     "siteName": "F.C Bartenheim",
     "mainColor": "#1e824c",
     "siteUrl": "https://fcbartenheim.com",
-    "homeImageUrl": "../../../assets/img/Fcb_2018_2019.jpg"
+    "homeImageUrls": [
+      "../../../assets/img/Fcb_2018_2019.jpg",
+      "../../../assets/img/Fcb2_2018_2019.jpg"
+    ]
   }
 }
